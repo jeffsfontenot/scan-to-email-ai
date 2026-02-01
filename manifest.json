@@ -2,7 +2,7 @@
   "name": "Scan to Email AI",
   "short_name": "Scan2Email",
   "description": "Scan documents, extract text with OCR, summarize with AI, and email as Word documents",
-  "start_url": "/index.html",
+  "start_url": "/scan-to-email-ai/",
   "display": "standalone",
   "background_color": "#0a1929",
   "theme_color": "#1a3a5c",
